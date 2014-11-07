@@ -10,3 +10,6 @@ Natural Scroll Mouse For Windows
 
 # OS Support
 - All the windows >= win2k ( may be ,haha)
+
+# Download
+[Click To Download Latest Release](https://github.com/everettjf/NatrualScrollMouseForWindows/blob/master/ready2use/NatureMouse.zip?raw=true)
